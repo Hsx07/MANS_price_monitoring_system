@@ -82,4 +82,5 @@ The system checks prices daily and sends beautiful email alerts with savings ana
 
 ---
 
-That's it! Start saving money with AI-powered price monitoring.
+### Project Supervised by [Prof. MANS dr hab. Marcin Paprzycki](https://mans.org.pl/katedry/dr-hab-marcin-paprzycki-prof-wsm/)
+
