@@ -27,7 +27,7 @@ Track Amazon product prices and get smart email alerts when it's time to buy. Us
 
 After running `python run.py`, you should see output like this showing successful installation:
 
-![Setup Output](setup_screenshot.png)
+![Setup Output](https://i.imgur.com/DqyyeKb.png)
 
 *The setup script automatically installs dependencies and creates all necessary files (config.csv, products.csv, etc.)*
 
