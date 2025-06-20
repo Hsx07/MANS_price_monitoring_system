@@ -50,7 +50,7 @@ The system checks prices daily and sends beautiful email alerts with savings ana
 
 ## Features
 
-- Smart price tracking with AI analysis
+- Smart price tracking
 - Email notifications for price drops
 - Purchase timing recommendations
 - Web dashboard for easy management
@@ -78,7 +78,7 @@ The system checks prices daily and sends beautiful email alerts with savings ana
 - Use full Amazon URL from browser address bar
 - Make sure product is available in your region
 
-**Need API key?** Get free Keepa API key at [keepa.com](https://keepa.com/#!api) for better price data.
+
 
 ---
 
